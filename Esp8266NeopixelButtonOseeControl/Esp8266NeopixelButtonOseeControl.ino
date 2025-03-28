@@ -7,7 +7,7 @@
 const char* ssid     = "YOUR_SSID";
 const char* password = "YOUR_PASSWORD";
 
-// UDP and switcher settings
+// UDP Port assignment and  Osee Go Stream switcher IP
 const IPAddress switcherIP(192, 168, 10, 101);
 const unsigned int outPort = 19018;
 const unsigned int localPort = 19019;
