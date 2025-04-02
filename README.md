@@ -23,5 +23,8 @@ Press 'start' to start the upload. wait until finish, then press stop.
 
 After upload, search and connect to the ESP Access point "OseeGoControl", with the ssid password "oseegostream".
 Then open your smartphone and browse the ip 50.50.50.50 to access the setup webmenu.
+
+![Image](https://github.com/user-attachments/assets/76383bbf-2180-41b6-bb8b-d44ce04797d5)
+
 Enter your WiFi ssid, password, and Switcher ip address (make sure the switcher are connected on the same wifi network's lan port)
 save and restart to boot the new configuration, done!
