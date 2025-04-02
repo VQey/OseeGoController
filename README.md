@@ -19,4 +19,9 @@ use the image as guide setup how to upload:
 ![Image](https://github.com/VQey/OseeUdpController/blob/main/Firmware%20and%20uploader/2.png)
 ![Image](https://github.com/VQey/OseeUdpController/blob/main/Firmware%20and%20uploader/3.png)
 
-Press 'start' to start the upload. wait until finish, then press stop. Done
+Press 'start' to start the upload. wait until finish, then press stop.
+
+After upload, search and connect to the ESP Access point "OseeGoControl", with the ssid password "oseegostream".
+Then open your smartphone and browse the ip 50.50.50.50 to access the setup webmenu.
+Enter your WiFi ssid, password, and Switcher ip address (make sure the switcher are connected on the same wifi network's lan port)
+save and restart to boot the new configuration, done!
