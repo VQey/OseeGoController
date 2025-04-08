@@ -12,7 +12,7 @@ PGM 1 - 2 - 3 - 4 - PVW 1 - 2 - 3 - 4 -AUTO - CUT
 Neopixel led to monitoring PGM or PVW Position
 
 Instruction:
-Upload the 'Esp8266NeopixelButtonOseeControl.ino.nodemcu.bin' using uploader by running the flash_download_tool_3.9.8_w1.exe
+Upload the 'Esp8266NeopixelButtonOseeControlnodemcu.bin' using uploader by running the flash_download_tool_3.9.8_w1.exe
 use the image as guide setup how to upload:
 
 
